@@ -15,8 +15,8 @@
     "url": "https://github.com/armaldio/electron-bottom-most"
   },
   "dependencies": {
-    "nan": "^2.14.2",
-    "node-gyp": "^3.8.0"
+    "nan": "^2.13.2",
+    "node-gyp": "^7.1.0"
   },
   "devDependencies": {
     "electron": "9.2.1",
